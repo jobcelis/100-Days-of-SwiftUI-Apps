@@ -1,2 +1,2 @@
 # 100-Days-of-SwiftUI-Apps
-Certain apps I build from the 100 Days of SwiftUI Challenge
+While I’m currently doing the 100 Days of SwiftUI course, I thought it would be a good idea to create a repository to showcase the certain apps I build from the course. Each app highlights different concepts and features I’ve learned, and new featurees I added, allowing me to apply my knowledge in practical ways. This not only reinforces my understanding but also provides a portfolio of my work to demonstrate my progress and skills in SwiftUI. I look forward to adding more projects in the future!
