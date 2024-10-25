@@ -26,7 +26,7 @@ struct ContentView: View {
         return amountPerPerson
     }
     
-    // Code made from ChatGPT
+    // Total amount
     var totalAmount: Double {
            let tipSelection = Double(tipPercentage)
            let tipValue = checkAmount / 100 * tipSelection
